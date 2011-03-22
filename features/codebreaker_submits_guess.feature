@@ -18,7 +18,7 @@ Feature: code-breaker submits guess
 	Scenarios: 1 number correct
 	 | code | guess | mark |
 	 | 1234 | 1555  | +    |
-	 | 1234 | -     |      |
+	 | 1234 | 5525  | -    |
 
 	Scenarios: 2 numbers correct
 	 | code | guess | mark |
